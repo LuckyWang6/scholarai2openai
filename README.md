@@ -1,0 +1,2 @@
+# scholarai2openai
+把scholarai响应转为openai格式
